@@ -152,8 +152,8 @@ header nav .menu a li:hover{
     justify-items: center;
 }
 .product_section .products .products_card{
-    width: 25rem;
-    height: 25rem;
+    width: 35rem;
+    height: 35rem;
     background-color: antiquewhite;
     border-radius: 2rem;
     display: flex;
@@ -174,4 +174,15 @@ header nav .menu a li:hover{
     line-height: 1rem;
     font-size: 1rem;
     margin-top: 1rem;
+}
+
+/* Footer Section Start */
+footer{
+    margin-top: 5rem;
+    height: 5rem;
+    font-size: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(232, 240, 236);
 }
